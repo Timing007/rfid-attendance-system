@@ -139,9 +139,7 @@ rfid-attendance-system/
 
 ## Author
 
-Akshat  
-B.Tech in Computer Science Engineering (CSE - CPS)  
-Jain University, Bangalore, India
+Akshat  Tiwari
 
 ## License
 
